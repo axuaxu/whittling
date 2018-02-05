@@ -1,0 +1,6 @@
+@import 'ui-variables'
+@background-color-info
+img.bookimg  {
+ 
+  width: 180px;
+}
